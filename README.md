@@ -33,10 +33,7 @@ Display account balance
 View transaction history
 
 💻 How to Run
-
 Clone this repository
-git clone https://github.com/yourusername/BankAccountSimulation.git
-
 Navigate to the project directory
 cd BankAccountSimulation
 
@@ -76,14 +73,3 @@ Method implementation
 Loops and conditionals
 
 (Optional) File I/O for saving history
-
-✨ Author
-
-Youmik Parmar
-📧 your.email@example.com
-
-💼 https://github.com/yourusername
-
-📜 License
-
-This project is open-source and available under the MIT License
