@@ -1,4 +1,4 @@
-his project simulates a basic banking system using Java Object-Oriented Programming (OOP) principles.
+This project simulates a basic banking system using Java Object-Oriented Programming (OOP) principles.
 It allows users to perform core banking operations such as deposit, withdraw, check balance, and view transaction history.
 
 Features
