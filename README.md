@@ -1,75 +1,32 @@
-💳 Bank Account Simulation (Java)
-🧩 Objective
+his project simulates a basic banking system using Java Object-Oriented Programming (OOP) principles.
+It allows users to perform core banking operations such as deposit, withdraw, check balance, and view transaction history.
 
-This project simulates basic banking operations using Java Object-Oriented Programming (OOP) principles.
-Users can create accounts, deposit money, withdraw funds, and view transaction history.
+Features
 
-🛠️ Tools Used
+Create and manage bank accounts
 
-Java
-
-VS Code / IntelliJ IDEA
-
-Terminal / Command Prompt
-
-📁 Project Structure
-
-BankAccountSimulation/
-│
-├── BankAccount.java → Class defining bank account operations
-├── Main.java → Entry point with menu-driven interface
-└── README.md → Project documentation
-
-🚀 Features
-
-Create a new bank account
-
-Deposit amount
-
-Withdraw amount (with balance check)
+Deposit and withdraw money
 
 Display account balance
 
-View transaction history
+Maintain transaction history
 
-💻 How to Run
-Clone this repository
-Navigate to the project directory
-cd BankAccountSimulation
+Simple command-line interface (CLI)
 
-Compile the program
-javac Main.java
+Tools Used
 
-Run the program
-java Main
+Java (JDK)
 
-🧮 Example Output
+VS Code / IntelliJ IDEA CE
 
-==== Bank Account Simulation ====
+Terminal / Command Prompt
 
-Deposit
+Learning Outcome
 
-Withdraw
+This project helps to:
 
-Check Balance
+Understand OOP concepts like classes, objects, and methods
 
-View Transaction History
+Implement data encapsulation and method-driven design
 
-Exit
-Enter your choice: 1
-Enter deposit amount: 1000
-Deposit successful! New balance: 1000.0
-
-🧱 Concepts Used
-
-Object-Oriented Programming (OOP)
-
-Classes & Objects
-
-Encapsulation
-
-Method implementation
-
-Loops and conditionals
-
-(Optional) File I/O for saving history
+Practice real-world problem-solving with Java-based logic
